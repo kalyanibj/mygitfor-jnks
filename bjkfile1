@@ -8,4 +8,4 @@ inputSet:
   pipeline:
     identifier: Build_devops0014_one_1703763628407
     properties:
-      ci:
+      ci: bjk
